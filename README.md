@@ -13,7 +13,7 @@ After completing the project, I could do the following:
 ### Introduction
 For the final project, I conducted my own data analysis and created a file to share that documented my findings. I started by taking a look at my dataset and brainstorming what questions I could answer using it. Then I used Pandas and NumPy to answer the questions I was most interested in, and created a report sharing the answers. For this project I didn't use inferential statistics or machine learning to complete this project, but I made it clear in my communications that my findings are tentative. This project is open-ended in that we Udacity folks were not looking for one right answer.
 
-I was given multiple [https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf](options) for a Dataset to select from, I selected the dataset  named [https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv](TMDb Movie data) and performed my analysis.
+I was given multiple [options](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/July/5b57919a_data-set-options/data-set-options.pdf) for a Dataset to select from, I selected the dataset  named [TMDb Movie data](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd1c4c_tmdb-movies/tmdb-movies.csv) and performed my analysis.
 
 It was really nice to work on this project and communicate my findings using Python Programming and the data science libraries like Pandas, Numpy and Matplotlib!
 Thanks Udacity for your wonderful Data Analyst NanoDegree program
